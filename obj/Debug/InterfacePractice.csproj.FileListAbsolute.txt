@@ -1,0 +1,16 @@
+C:\Users\Crin\source\repos\InterfacePractice\InterfacePractice\bin\Debug\InterfacePractice.exe.config
+C:\Users\Crin\source\repos\InterfacePractice\InterfacePractice\bin\Debug\InterfacePractice.exe
+C:\Users\Crin\source\repos\InterfacePractice\InterfacePractice\bin\Debug\InterfacePractice.pdb
+C:\Users\Crin\source\repos\InterfacePractice\InterfacePractice\obj\Debug\InterfacePractice.csprojResolveAssemblyReference.cache
+C:\Users\Crin\source\repos\InterfacePractice\InterfacePractice\obj\Debug\InterfacePractice.Form1.resources
+C:\Users\Crin\source\repos\InterfacePractice\InterfacePractice\obj\Debug\InterfacePractice.Form2.resources
+C:\Users\Crin\source\repos\InterfacePractice\InterfacePractice\obj\Debug\InterfacePractice.Form3.resources
+C:\Users\Crin\source\repos\InterfacePractice\InterfacePractice\obj\Debug\InterfacePractice.Properties.Resources.resources
+C:\Users\Crin\source\repos\InterfacePractice\InterfacePractice\obj\Debug\InterfacePractice.csproj.GenerateResource.cache
+C:\Users\Crin\source\repos\InterfacePractice\InterfacePractice\obj\Debug\InterfacePractice.csproj.CoreCompileInputs.cache
+C:\Users\Crin\source\repos\InterfacePractice\InterfacePractice\obj\Debug\InterfacePractice.exe
+C:\Users\Crin\source\repos\InterfacePractice\InterfacePractice\obj\Debug\InterfacePractice.pdb
+C:\Users\Crin\source\repos\InterfacePractice\InterfacePractice\bin\Debug\InterfacePractice.exe.manifest
+C:\Users\Crin\source\repos\InterfacePractice\InterfacePractice\bin\Debug\InterfacePractice.application
+C:\Users\Crin\source\repos\InterfacePractice\InterfacePractice\obj\Debug\InterfacePractice.exe.manifest
+C:\Users\Crin\source\repos\InterfacePractice\InterfacePractice\obj\Debug\InterfacePractice.application
